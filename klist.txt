@@ -1,0 +1,8 @@
+Credentials cache: API:FB0A34C7-C5D0-499B-8E7D-AB5F0828C081
+        Principal: caroua@42.FR
+
+  Issued                Expires               Principal
+Jul 31 09:09:02 2017  Aug  7 09:09:02 2017  krbtgt/42.FR@42.FR
+Jul 31 09:09:04 2017  Aug  7 09:09:02 2017  ldap/ldap-proxy.42.fr@42.FR
+Jul 31 09:09:04 2017  Aug  7 09:09:02 2017  HTTP/student-storage-1.42.fr@42.FR
+Jul 31 12:00:55 2017  Aug  7 09:09:02 2017  host/vgs-fn1.42.fr@42.FR
